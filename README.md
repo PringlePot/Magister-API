@@ -38,7 +38,7 @@ import Magister from './auth/magister';
   );
 })();
 ```
-##Credits:
+## Credits:
 [iidk](https://github.com/idiidk) Voor het maken van magister-api wat ik als basis kon gebruiken
 
 [JipFr](https://github.com/JipFr) Voor het maken van magister-scraper waardoor ik kon authen
