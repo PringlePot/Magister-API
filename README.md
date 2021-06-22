@@ -1,4 +1,4 @@
-
+![downloads](https://img.shields.io/npm/dm/magister-api-new)
 # Magister Typescript API
 Een (op dit moment) werkende magister.net api. Dit is een soort mix tussen [Magister-API](https://github.com/idiidk/magister-api) en [magister-scraper](https://github.com/JipFr/magister-scraper/). Maar dan helemal in typescript.
 
