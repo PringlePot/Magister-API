@@ -23,7 +23,7 @@
     "axios-cookiejar-support": "^1.0.1",
     "chalk": "^4.1.1",
     "got": "^11.8.2",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "tough-cookie": "^4.0.0",
     "url": "^0.11.0"
   }
